@@ -1,0 +1,10 @@
+.roll_dice button{
+    background-color:black;
+    width: 10em;
+    height: 3em;
+    border: 0px;
+    border-radius: 15px;
+    color: aliceblue;
+    margin-top: 2.5em;
+
+}
